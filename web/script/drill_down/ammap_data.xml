@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map map_file="maps/continents.swf" zoom_x="0%" zoom_y="0%" zoom="100%" tl_long="-168.49" tl_lat="83.63" br_long="190.3" br_lat="-55.58" >
+  <areas>
+    <area mc_name="africa" title="Africa, ME & GR " color="#CD6600" color_hover="#ef8b35" zoom="250%" zoom_x="-84.94%" zoom_y="-118.95%" url="!/ChainMap/datamap/africa.xml"/>
+    <area mc_name="asia" title="Asia" color="#6f7073"  color_hover="#ef8b35" zoom="130%" zoom_x="-45.46%" zoom_y="-10.18%" url="!/ChainMap/datamap/asia.xml"/>
+     <area mc_name="australia" title="Australia and Oceania" color="#426F42" color_hover="#ef8b35" zoom="400%" zoom_x="-294.35%" zoom_y="-280.58%" url="!/ChainMap/datamap/oceania.xml"/>
+     <area mc_name="europe" title="Europe" color="#AA805A">
+         <description>
+		      <![CDATA[<textformat><img src='/ChainMap/script/ammap/icons/network_wired.png'/></textformat><br/><font color="#838383"><b>Regional Network:</b></font><font color="#0669CE"><a href="http://www.geant.net" target="_blank">GEANT</a></font>
+                       <textformat><br/><img src='/ChainMap/script/ammap/icons/egi.png' width="50px" height="30px"/></textformat><br><font color="#838383"><b>European Grid Infrastructure: </b></font><font color="#0669CE"><a href="http://www.egi.eu" target="_blank">EGI.eu</a></font>
+                       <textformat><br/><img src='/ChainMap/script/ammap/icons/wireless.png'/></textformat><br/><font color="#838383"><b>National Research Education Networks: </b></font><font color="#0669CE"><a href="http://www.terena.org/activities/compendium/" target="_blank">view page</a>, <a href="http://www.terena.org/activities/compendium/2011/pdf/TER-C11-complete-web.pdf" target="_blank">view document</a></font>
+		       <textformat><br/><img src='/ChainMap/script/ammap/icons/ngi.png'/></textformat><br><font color="#838383"><b>National Grid Initiatives: </b></font><font color="#0669CE"><a href="https://www.egi.eu/infrastructure/Resource-providers/index.html" target="_blank">view page</a></font>
+                       <textformat><br/><img src='/ChainMap/script/ammap/icons/ca.png'/></textformat><br><font color="#838383"><b>Certification Authorities: </b></font><font color="#0669CE"><a href="https://www.eugridpma.org/members/membership" target="_blank">view page</a></font>
+		       <textformat><br/><img src='/ChainMap/script/ammap/icons/IdF.png'/></textformat><br/><font color="#838383"><b>Identity Federations: </b></font><font color="#0669CE"><a href="https://refeds.org/resources_list.html" target="_blank">view page</a></font>
+                       <textformat><br/><img src='/ChainMap/script/ammap/icons/roc.png'/></textformat><br/><font color="#838383"><b>Regional Operation Centres: </b></font><font color="#0669CE"><a href="https://goc.gridops.org/portal/index.php?Page_Type=Table&query=Get_ROCs&parameters[]=NAME&start_row=0&end_row=20&Title=ROC%20contacts" target="_blank">view page</a></font>
+		       <textformat><br/><img src='/ChainMap/script/ammap/icons/network_1.png'/></textformat><br/><font color="#838383"><b>Grid sites: </b></font><font color="#0669CE"><a href="https://goc.gridops.org/portal/index.php?Page_Type=Table&query=Get_Site_Production&parameters[]=SHORT_NAME&start_row=0&end_row=20&form_name=Update_site&Title=Sites" target="_blank">view page</a></font>
+                       <textformat><br/><img src='/ChainMap/script/ammap/icons/app.png'/></textformat><br/><font color="#838383"><b>Applications: </b></font><font color="#0669CE"><a href="http://appdb.egi.eu/" target="_blank">view page</a></font>
+
+                       ]]>
+      		</description>
+         </area>
+      <area mc_name="north_america" title="North America" color="#8D725F" zoom="270%" zoom_x="-9.51%" zoom_y="-50.75%" url="!/ChainMap/datamap/nordamerica.xml"/>
+      <area mc_name="south_america" title="Latin America" color="#8FBC8F" color_hover="#ef8b35" zoom="219%" zoom_x="2.44%" zoom_y="-120.36%" url="!/ChainMap/datamap/latinamerica.xml"/>
+</areas>
+</map>
+
+
