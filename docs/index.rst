@@ -24,10 +24,10 @@ of documents and datasets, with both geographic and tabular information, the OAD
 part of the CHAIN-REDS Knowledge Base is only a demonstrator with limited impact on 
 scientists’ day-by-day life. In order to find a document or a dataset, users should know
 beforehand what they are looking for and there is no way to correlate documents and data which
-would actually be of the most important facilitators of the Scientific Method (see Fig. 2).
+would actually be of the most important facilitators of the Scientific Method.
 In order to overcome these limitations and turn the Knowledge Base into a powerful research
 tool, the `CHAIN-REDS <http://www.chain-project.eu/>`_ consortium has decided to semantically enrich OADRs and DRs and
-build a search engine on the related linked data. 
+build a search engine on the related linked data.[View Semantic Search Portlet] (http://csgf.readthedocs.org/en/latest/semantic-search-portlet/docs/index.html) 
 
 ============
 Installation
@@ -35,9 +35,6 @@ Installation
 
 To install this portlet the WAR file has to be deployed into the application server.
 
-============
-Usage
-============
 
    
 ============
